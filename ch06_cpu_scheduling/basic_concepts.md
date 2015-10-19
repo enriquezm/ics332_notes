@@ -1,4 +1,4 @@
-#Basic Concepts
+#6.1 - Basic Concepts
 
 ###6.1.1 CPU-I/O Cycle
 
@@ -20,5 +20,19 @@
 10. What does nonpreemptive mean, in terms of a scheduling scheme?
 11. What does preemptive mean, in terms of a scheduling scheme?
 12. What can happen with preemptive scheduling when data is shared among several processes?
+
+
+###6.1.4 Dispatcher
+
+#6.2 - Scheduling Criteria
+
+#6.3 - Scheduling Algorithms
+###6.3.1 First-Come, First-Served Scheduling
+###6.3.2 Shortest-Job-First Scheduling
+###6.3.3 Priority Scheduling
+###6.3.4 Round-Robin Scheduling
+###6.3.5 Multilevel Queue Scheduling
+###6.3.6 Multilevel Feedback Queue Scheduling
+#6.4 - Thread Scheduling
 
 
